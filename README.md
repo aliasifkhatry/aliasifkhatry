@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 # 💫 About Me:
 Student 🎓<br>Web Developer 💻<br>Designer 🎨<br>Notion Specialist 🧩
 
